@@ -3,8 +3,7 @@
 
 # In[1]:
 
-
-pip install keras
+import keras
 
 
 # In[2]:
