@@ -73,7 +73,7 @@ from keras.layers import LSTM,Dropout,Dense
 # In[11]:
 
 
-import scikit-learn
+import sklearn
 
 # In[14]:
 
