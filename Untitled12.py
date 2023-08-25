@@ -18,7 +18,7 @@ import streamlit as st
 # In[3]:
 
 
-import matplotlib.pyplot as plt
+import matplotlib as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
