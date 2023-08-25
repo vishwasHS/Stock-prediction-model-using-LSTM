@@ -60,7 +60,7 @@ plt.plot(df["Close"],label='Close Price history')
 # In[9]:
 
 
-pip install --upgrade tensorflow
+
 
 
 # In[13]:
@@ -73,8 +73,7 @@ from keras.layers import LSTM,Dropout,Dense
 # In[11]:
 
 
-pip install scikit-learn
-
+import scikit-learn
 
 # In[14]:
 
@@ -148,7 +147,6 @@ closing_price=scaler.inverse_transform(closing_price)
 # In[20]:
 
 
-pip install h5py
 
 
 # In[21]:
@@ -197,7 +195,7 @@ import numpy as np
 # In[30]:
 
 
-pip install dash
+
 
 
 # In[31]:
